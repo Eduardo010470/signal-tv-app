@@ -21,9 +21,6 @@
       "versionCode": 1,
       "permissions": []
     },
-    "plugins": [
-      "expo-web-browser"
-    ],
     "extra": {
       "eas": {
         "projectId": ""
