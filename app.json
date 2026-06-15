@@ -7,24 +7,15 @@
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "dark",
     "backgroundColor": "#000814",
-    "splash": {
-      "image": "./assets/splash-icon.png",
-      "resizeMode": "contain",
-      "backgroundColor": "#000814"
-    },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/android-icon-foreground.png",
+        "backgroundImage": "./assets/android-icon-background.png",
         "backgroundColor": "#000814"
       },
       "package": "com.signaltv.app",
       "versionCode": 1,
       "permissions": []
-    },
-    "extra": {
-      "eas": {
-        "projectId": ""
-      }
     }
   }
 }
